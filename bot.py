@@ -6,7 +6,7 @@ import datetime
 import asyncio
 
 # ===== ВСТАВЬТЕ ВАШ ТОКЕН ЗДЕСЬ =====
-TOKEN = 'MTUxOTY3OTE0ODE2MjAyMzQ3NQ.GC14v2.fcDsMlHLbs4z1__1EWng7VQYJMUzGaSg7KD8Z8'
+TOKEN = 'MTUxOTY3OTE0ODE2MjAyMzQ3NQ.GB2FSk.KzjC-kwlmwrUSlar_G-HZwrKCRvNJ-COP77268'
 
 # ===== НАСТРОЙКИ =====
 intents = discord.Intents.default()
