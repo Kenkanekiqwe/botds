@@ -5,6 +5,8 @@ from collections import defaultdict
 import datetime
 import asyncio
 
+TOKEN =os.getenv('BOT_TOKEN')
+
 # ===== НАСТРОЙКИ =====
 intents = discord.Intents.default()
 intents.message_content = True
